@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="hello">hello</string>
+    <string name="title_activity_movies">MoviesActivity</string>
+    <string name="apiKey">55ca991c</string>
+</resources>
